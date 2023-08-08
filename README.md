@@ -11,12 +11,12 @@
 -->
 
 # 📊 GitHub Stats (Public only):
-![](https://github-readme-stats.vercel.app/api?username=priezz&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-stats-ft3jg9a1y-dvaplus.vercel.app/api?username=priezz&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://streak-stats.demolab.com/?user=priezz&theme=ayu-mirage&hide_border=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priezz&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=donut&count_private=true&show_icons=true)
+![](https://github-readme-stats-ft3jg9a1y-dvaplus.vercel.app/api/top-langs/?username=priezz&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=donut&count_private=true&show_icons=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priezz&theme=ayu-mirage&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=priezz&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priezz&icon=3&color=1)](https://visitcount.itsvg.in)
